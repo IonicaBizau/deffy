@@ -13,6 +13,8 @@
 <!-- * * * Thanks! * * *                                                    -->
 <!---------------------------------------------------------------------------->
 
+![deffy](http://i.imgur.com/k1hlQxA.png)
+
 # deffy [![Donate now][donate-now]][paypal-donations]
 
 Small and fast library to set default values.

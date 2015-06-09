@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-deffy/issues"
   },
+  "blah": {
+      "h_img": "http://i.imgur.com/k1hlQxA.png"
+  },
   "homepage": "https://github.com/IonicaBizau/node-deffy"
 }
