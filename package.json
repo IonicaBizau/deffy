@@ -8,7 +8,7 @@
     "test": "test"
   },
   "dependencies": {
-    "typpy": "^1.0.0"
+    "typpy": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
