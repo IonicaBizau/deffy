@@ -1,6 +1,6 @@
 {
   "name": "deffy",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Small and fast library to set default values.",
   "main": "lib/index.js",
   "directories": {
@@ -29,7 +29,7 @@
     "url": "https://github.com/IonicaBizau/node-deffy/issues"
   },
   "blah": {
-      "h_img": "http://i.imgur.com/k1hlQxA.png"
+    "h_img": "http://i.imgur.com/k1hlQxA.png"
   },
   "homepage": "https://github.com/IonicaBizau/node-deffy"
 }
