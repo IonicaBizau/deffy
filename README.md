@@ -13,7 +13,7 @@
 <!-- * * * Thanks! * * *                                                    -->
 <!---------------------------------------------------------------------------->
 
-![deffy](http://i.imgur.com/k1hlQxA.png)
+[![deffy](http://i.imgur.com/k1hlQxA.png)](#)
 
 # deffy [![Donate now][donate-now]][paypal-donations]
 
@@ -50,7 +50,6 @@ console.log(Deffy("foo", function (input) {
     return input === "foo" ? "bar" : "foo";
 }));
 // => "bar"
-
 ```
 
 ## Documentation
@@ -71,6 +70,35 @@ Computes a final value by providing the input and default values.
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+## Who uses this
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+ - [`blah`](https://github.com/IonicaBizau/node-blah)
+
+ - [`bug-killer`](https://github.com/IonicaBizau/node-bug-killer)
+
+ - [`cli-gh-cal`](https://github.com/IonicaBizau/cli-gh-cal)
+
+ - [`engine-tools`](https://github.com/jillix/engine-tools) by jillix 
+
+ - [`git-stats`](https://github.com/IonicaBizau/git-stats)
+
+ - [`gpm`](https://github.com/IonicaBizau/node-gpm)
+
+ - [`one-by-one`](https://github.com/IonicaBizau/node-one-by-one)
+
+ - [`same-time`](https://github.com/IonicaBizau/node-same-time)
+
+ - [`set-or-get`](https://github.com/IonicaBizau/node-set-or-get)
+
+ - [`ssh-remote`](https://github.com/IonicaBizau/ssh-remote)
+
+ - [`svg.connectable.js`](https://github.com/jillix/svg.connectable.js) by jillix 
+
+ - [`ul`](https://github.com/IonicaBizau/node-ul)
+
+ - [`web-term`](https://github.com/IonicaBizau/web-term)
+
 ## License
 [KINDLY][license] © [Ionică Bizău][website]–The [LICENSE](/LICENSE) file contains
 a copy of the license.
@@ -80,4 +108,4 @@ a copy of the license.
 [website]: http://ionicabizau.net
 [docs]: /DOCUMENTATION.md
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MG98D7NPFZ3MG
-[donate-now]: http://i.imgur.com/jioicaN.png
+[donate-now]: http://i.imgur.com/6cMbHOC.png
