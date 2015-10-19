@@ -79,7 +79,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - [`cli-gh-cal`](https://github.com/IonicaBizau/cli-gh-cal)
 
- - [`engine-tools`](https://github.com/jillix/engine-tools) by jillix 
+ - [`engine-tools`](https://github.com/jillix/engine-tools) by jillix
 
  - [`git-stats`](https://github.com/IonicaBizau/git-stats)
 
@@ -93,7 +93,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - [`ssh-remote`](https://github.com/IonicaBizau/ssh-remote)
 
- - [`svg.connectable.js`](https://github.com/jillix/svg.connectable.js) by jillix 
+ - [`svg.connectable.js`](https://github.com/jillix/svg.connectable.js) by jillix
 
  - [`ul`](https://github.com/IonicaBizau/node-ul)
 
