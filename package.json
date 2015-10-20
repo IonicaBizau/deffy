@@ -1,6 +1,6 @@
 {
   "name": "deffy",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Small and fast library to set default values.",
   "main": "lib/index.js",
   "directories": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:IonicaBizau/node-deffy.git"
+    "url": "git@github.com:IonicaBizau/deffy.js.git"
   },
   "keywords": [
     "default",
@@ -26,10 +26,10 @@
   "author": "Ionică Bizău <bizauionica@gmail.com>",
   "license": "KINDLY",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/node-deffy/issues"
+    "url": "https://github.com/IonicaBizau/deffy.js/issues"
   },
   "blah": {
     "h_img": "http://i.imgur.com/k1hlQxA.png"
   },
-  "homepage": "https://github.com/IonicaBizau/node-deffy"
+  "homepage": "https://github.com/IonicaBizau/deffy.js"
 }

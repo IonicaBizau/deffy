@@ -70,7 +70,7 @@ Computes a final value by providing the input and default values.
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Who uses this
+## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
  - [`blah`](https://github.com/IonicaBizau/node-blah)
