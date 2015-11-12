@@ -7,7 +7,7 @@ Small and fast library to set default values.
 ## Installation
 
 ```sh
-$ npm i -g deffy
+$ npm i deffy
 ```
 
 ## Example
