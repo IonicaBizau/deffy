@@ -1,8 +1,8 @@
 [![deffy](http://i.imgur.com/k1hlQxA.png)](#)
 
-# deffy [![Support this project][donate-now]][paypal-donations]
+# deffy [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/deffy.svg)](https://www.npmjs.com/package/deffy) [![Downloads](https://img.shields.io/npm/dt/deffy.svg)](https://www.npmjs.com/package/deffy) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Small and fast library to set default values.
+> Small and fast library to set default values.
 
 ## Installation
 
@@ -58,17 +58,25 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
+ - [`ascii-heart`](https://github.com/nuvipannu/ascii-heart#readme) by Nuvi Pannu
+
  - [`blah`](https://github.com/IonicaBizau/blah)
 
  - [`bug-killer`](https://github.com/IonicaBizau/node-bug-killer)
 
  - [`cli-gh-cal`](https://github.com/IonicaBizau/cli-gh-cal)
 
+ - [`emoji-logger`](https://github.com/IonicaBizau/emoji-logger#readme)
+
+ - [`engine-flow-types`](https://github.com/jillix/engine-flow-types#readme) by jillix
+
  - [`engine-parser`](https://github.com/IonicaBizau/engine-parser) by jillix
 
  - [`engine-tools`](https://github.com/jillix/engine-tools) by jillix
 
  - [`enny`](https://github.com/IonicaBizau/enny) by jillix
+
+ - [`gh-notifier`](https://bitbucket.org/IonicaBizau/gh-notifier#readme)
 
  - [`ghosty`](https://github.com/IonicaBizau/ghosty#readme)
 
