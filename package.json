@@ -1,6 +1,6 @@
 {
   "name": "deffy",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "Small and fast library to set default values.",
   "main": "lib/index.js",
   "directories": {
@@ -40,6 +40,7 @@
     "src/",
     "resources/",
     "menu/",
+    "scripts/",
     "cli.js",
     "index.js"
   ]
