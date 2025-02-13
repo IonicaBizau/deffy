@@ -21,7 +21,7 @@
 
 # deffy
 
- [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/deffy.svg)](https://www.npmjs.com/package/deffy) [![Downloads](https://img.shields.io/npm/dt/deffy.svg)](https://www.npmjs.com/package/deffy) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/deffy.svg)](https://www.npmjs.com/package/deffy) [![Downloads](https://img.shields.io/npm/dt/deffy.svg)](https://www.npmjs.com/package/deffy) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/@johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 <a href="https://www.buymeacoffee.com/H96WwChMy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 
@@ -110,6 +110,7 @@ console.log(Deffy("foo", function (input) {
 
 
 
+
 ## :question: Get Help
 
 There are few ways to get help:
@@ -119,6 +120,8 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
 
 
 
@@ -194,45 +197,53 @@ Thanks! :heart:
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - `ul`
- - `bug-killer`
- - `tilda`
- - `same-time`
- - `cli-box`
+ - `@isysd/gpm`
+ - `angularvezba`
+ - `ascii-heart`
+ - `asciify-pixel`
  - `bindy`
- - `set-or-get`
- - `emoji-logger`
- - `pixel-class`
- - `obj-def`
+ - `blah`
+ - `bloggify`
+ - `bloggify-cli`
+ - `bloggify-contact-form`
+ - `bloggify-paths`
+ - `bloggify-shop`
+ - `bloggify-template-renderer`
+ - `bloggify-theme-renderer`
+ - `bloggify-ws`
+ - `bug-killer`
+ - `cli-box`
  - `cli-gh-cal`
  - `cute-logger`
- - `bloggify-template-renderer`
- - `git-package-json`
- - `bloggify-contact-form`
- - `transformer`
- - `git-stats`
- - `svg.connectable.js`
- - `engine-parser`
- - `flow-api`
+ - `emoji-logger`
  - `engine-builder`
- - `enny`
  - `engine-flow-types`
+ - `engine-parser`
  - `engine-tools`
- - `ghosty`
- - `web-term`
- - `asciify-pixel`
- - `blah`
- - `bloggify-shop`
- - `bloggify-paths`
- - `bloggify-theme-renderer`
- - `ascii-heart`
+ - `enny`
+ - `flow-api`
+ - `function-data-converter`
  - `gh-notifier`
- - `love-you`
- - `parrot-bot`
- - `value-breakpoints`
- - `@isysd/gpm`
+ - `ghoos`
+ - `ghosty`
+ - `git-package-json`
+ - `git-stats`
  - `gpm`
- - `bloggify-ws`
+ - `love-you`
+ - `markdownalint-cli2`
+ - `obj-def`
+ - `parrot-bot`
+ - `pixel-class`
+ - `same-time`
+ - `set-or-get`
+ - `ssh-remote`
+ - `svg.connectable.js`
+ - `tilda`
+ - `tools_may_24`
+ - `transformer`
+ - `ul`
+ - `value-breakpoints`
+ - `web-term`
 
 
 
@@ -254,7 +265,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
 [license]: /LICENSE
-[website]: http://ionicabizau.net
+[website]: https://ionicabizau.net
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md
 [badge_patreon]: https://ionicabizau.github.io/badges/patreon.svg

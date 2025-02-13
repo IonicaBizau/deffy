@@ -1,6 +1,6 @@
 {
   "name": "deffy",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "description": "Small and fast library to set default values.",
   "main": "lib/index.js",
   "directories": {
@@ -23,7 +23,7 @@
     "values",
     "deffy"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/deffy.js/issues"
@@ -38,9 +38,15 @@
     "lib/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "index.d.ts",
+    "package-lock.json",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
