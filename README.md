@@ -110,23 +110,6 @@ console.log(Deffy("foo", function (input) {
 
 
 
-
-## :question: Get Help
-
-There are few ways to get help:
-
-
-
- 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
- 2. For bug reports and feature requests, open issues. :bug:
- 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
-
-
-
-
-
-
-
 ## :memo: Documentation
 
 
@@ -143,6 +126,24 @@ Computes a final value by providing the input and default values.
 
 #### Return
 - **Anything** The computed value.
+
+
+
+
+
+
+
+
+
+## :question: Get Help
+
+There are few ways to get help:
+
+
+
+ 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
+ 2. For bug reports and feature requests, open issues. :bug:
+ 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
 
 
 
@@ -191,59 +192,6 @@ Thanks! :heart:
 
 
 
-
-
-
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
- - `@isysd/gpm`
- - `angularvezba`
- - `ascii-heart`
- - `asciify-pixel`
- - `bindy`
- - `blah`
- - `bloggify`
- - `bloggify-cli`
- - `bloggify-contact-form`
- - `bloggify-paths`
- - `bloggify-shop`
- - `bloggify-template-renderer`
- - `bloggify-theme-renderer`
- - `bloggify-ws`
- - `bug-killer`
- - `cli-box`
- - `cli-gh-cal`
- - `cute-logger`
- - `emoji-logger`
- - `engine-builder`
- - `engine-flow-types`
- - `engine-parser`
- - `engine-tools`
- - `enny`
- - `flow-api`
- - `function-data-converter`
- - `gh-notifier`
- - `ghoos`
- - `ghosty`
- - `git-package-json`
- - `git-stats`
- - `gpm`
- - `love-you`
- - `markdownalint-cli2`
- - `obj-def`
- - `parrot-bot`
- - `pixel-class`
- - `same-time`
- - `set-or-get`
- - `ssh-remote`
- - `svg.connectable.js`
- - `tilda`
- - `tools_may_24`
- - `transformer`
- - `ul`
- - `value-breakpoints`
- - `web-term`
 
 
 
