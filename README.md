@@ -76,7 +76,6 @@ yarn add deffy
 
 
 ```js
-// Dependencies
 import Deffy from "deffy";
 
 console.log(Deffy(undefined, "Hello World"));
