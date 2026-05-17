@@ -1,4 +1,3 @@
-// Dependencies
 import Deffy from "../lib/index.js";
 
 console.log(Deffy(undefined, "Hello World"));
