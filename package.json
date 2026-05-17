@@ -1,6 +1,6 @@
 {
   "name": "deffy",
-  "version": "2.2.5",
+  "version": "3.0.0",
   "description": "Small and fast library to set default values.",
   "type": "module",
   "main": "lib/index.js",
